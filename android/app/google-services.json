@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "118553934618",
+    "firebase_url": "https://esp32project-86300-default-rtdb.firebaseio.com",
+    "project_id": "esp32project-86300",
+    "storage_bucket": "esp32project-86300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118553934618:android:442374956ca705b3254aa3",
+        "android_client_info": {
+          "package_name": "com.shyam.np"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118553934618-3bi6khatveknnskh7v8tgffi90qs2788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VLqDWkpsSM9q1xOKVja89Lyy_ezyFkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118553934618-3bi6khatveknnskh7v8tgffi90qs2788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118553934618:android:621f8646338ea540254aa3",
+        "android_client_info": {
+          "package_name": "water.tank.automation.water_tank_automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118553934618-3bi6khatveknnskh7v8tgffi90qs2788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VLqDWkpsSM9q1xOKVja89Lyy_ezyFkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118553934618-3bi6khatveknnskh7v8tgffi90qs2788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
